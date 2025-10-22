@@ -82,9 +82,9 @@ Now for the endings. It's pretty straightforward, you start at 0 points, you los
 ## Step 2: Challenges and Optional Dungeons Venturing
 There are 13 achievements for various challenges with cards/deck setup. 10 of them (at the bottom of the achievement list) are for restricting the usage of certain cards which give you an advantage in those specific fights by either bringing down the required VP from the player or increasing the enemy's accompanied with a line from the related character. [The Toran Republic Might](https://retroachievements.org/achievement/540072) is pretty simple. [The Mad Prince](https://retroachievements.org/achievement/538874) is one of those "unwinnable" fights, you'll need to prepare a good deck to counter his duels and rack up VPs quickly or survive enough to make him run out of cards. [As It Was Meant to Be](https://retroachievements.org/achievement/538890) is a challenge to re-enact the event as played out in the original game. You'll need a bunch of "Teleport" cards and characters geared for BLD and MIL to also counter his mission cards. Good luck!
 
-Now for (6), when you go to any optional dungeon, you'll notice that they're randomly generated along with their content; chests, layout, visible enemies (on top of random encounters). Among these are NPCs with interactions from fighting them or simply just talking to them. Technically, all NPCs except for two are missable if you reach the epilogue, but I only noted those that have a much earlier missable point. Some have a very tight window! Besides the trader version of Lorelai (read the warnings part), I want to mention that if you meet Sierra, don't worry about recipes and give whatever she wants, if you have it.
+Now for (6), when you go to any optional dungeon, you'll notice that they're randomly generated along with their content; chests, layout, visible enemies (on top of random encounters). Among these are NPCs with interactions from fighting them or simply just talking to them. Technically, all NPCs except for two are missable if you reach the epilogue, but I only noted those that have a much earlier missable point than reaching Chaper 10. Some have a very tight window! Besides the trader version of Lorelai (read the warnings part), I want to mention that if you meet Sierra, don't worry about recipes and give whatever she wants, if you have it.
 
-I'll list here the starting and ending points of the NPCs' availability.
+I'll list here the starting and ending points of the NPCs' availability, and order them.
 
 |   |   |   |   |
 |:--|:--|:--|:--|
@@ -108,8 +108,8 @@ I'll list here the starting and ending points of the NPCs' availability.
 |Neclord|Before the Ch.6 destination decision|After the Tinto Chapter|
 |Lucia|After the Greenhill Chapter|After taking over Matilda, end of Ch.9|
 |Rowd 2|After beating him in Ch.8||
-|Kiba||After taking back Kuskus, end of Ch.8|Epilogue|
-|Klaus||After taking back Kuskus, end of Ch.8|Epilogue|
+|Kiba|After taking back Kuskus, end of Ch.8|Epilogue||
+|Klaus|After taking back Kuskus, end of Ch.8|Epilogue||
 |Han Cunningham|After taking back Kuskus, end of Ch.8|After taking over Matilda, end of Ch.9|
 |Gorudo|After meeting with Gorudo for the first time in Ch.9|After taking over Matilda, end of Ch.9|
 |Miklotov|After meeting with Gorudo for the first time in Ch.9|Epilogue|
