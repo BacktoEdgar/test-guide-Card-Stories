@@ -26,7 +26,7 @@ If you're still reading, then you probably want to know some more. This step is 
 4. 9 achievements for Trading
 5. 2 achievements for Cards Collection and for unlocking all possible locations
 6. 24 achievements for NPCs that you find in dungeons
-7. 4 miscellaneous achievements: 3 achievements for Training + 1 for Squirrels
+7. 4 miscellaneous achievements: 3 for Training + 1 for Squirrels
 
 For this step, I'll talk about a bit about (1), (2), (4) and one of the achievements from (3) and (5). First off, (1) and (2), there isn't much to talk about but since the achievements are ordered. For the 3 endings, you accumulate "Ending Points" (tentative name) and depending on how many you have, you'll have access from 1 up to all 3. But rest assured as it isn't very strict, more about that at the bottom of this step. The chest collection achievements are missable because they're in one-time-only story dungeons, unlike the randomly generated dungeons you have access to at any time. So make sure to pick them up!
 
