@@ -54,7 +54,10 @@ Now for the endings. It's pretty straightforward, you start at 0 points, you los
 |**Chapter 3**|
 |**+1** "Let's find out."|**0** "..."
 |**Chapter 4**|
-
+|**+1** "If I can help..."|**0** "Power?"
+|**Chapter 5**|
+|**+1** "It's not your fault."|**0** "..."
+|**-1** "I'm so tired."|**0** "I'm fine."
 
 ***
 
@@ -72,27 +75,27 @@ I'll list here the starting and ending points of the NPCs' availability.
 |Nanami|After meeting Nanami in Ch.2||
 |Rowd 1|After meeting Nanami in Ch.2||
 |Viktor|After meeting Nanami in Ch.2||
-|Lorelai (Trader)|After meeting Nanami in Ch.2||**BUGGED**! She's rarer than the merchant version so you don't have to worry too much about meeting her but when you do and she asks you if you have X cards to trade with, refuse her and you'll be fine. (She's most likely only bugged in the English patched version)
+|Lorelai (Trader)|After meeting Nanami in Ch.2||**BUGGED**! She's rarer than the merchant version so you don't have to worry too much about meeting her but when you do and she asks you if you have X cards to trade with, refuse her and you'll be fine. (She's only bugged in the English patched version)
 |Flik|After meeting Nanami in Ch.2||Technically, that's the starting point but he didn't appear for me until Ch.3
-|Solon|After choosing to fight and winning against him in Ch.2 **OR** ||
+|Solon|After choosing to fight and winning against him in Ch.2 **OR** in Ch.4|After taking back South Window in Ch.5|
 |Luca|After all the events in the mercenary fort in Ch.2||
 |Anabelle|After meeting her for the first time in Ch.3|After Jowy meets with her in Ch.3|
 |Apple|After meeting her in Ch.4||
-Han Cunningham
-Neclord / Opened Chest
-Gorudo
-Jillia
-Seed
-Culgan
-Kiba
-Teresa
-Miklotov
-Camus
-Rowd 2
-Shu
-Sierra
-Klaus
-Lucia
+|Jillia|After winning against Shu in Ch.4||But you won't have access to locations where she appears for a while
+|Shu|After becoming the leader, the end of Ch.4||
+|Seed|After taking back Two River in Ch.5||
+|Culgan|After taking back Two River in Ch.5||
+|Teresa|Before the Ch.6 destination decision||
+|Sierra|Before the Ch.6 destination decision||
+|Neclord|Before the Ch.6 destination decision||
+|Han Cunningham|
+|Gorudo|
+|Kiba|
+|Miklotov|
+|Camus|
+|Rowd 2|
+|Klaus|
+|Lucia|
 
 ***
 
