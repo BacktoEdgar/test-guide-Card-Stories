@@ -28,7 +28,7 @@ If you're still reading, then you probably want to know some more. This step is 
 6. 24 achievements for NPCs that you find in dungeons
 7. 4 miscellaneous achievements: 3 for Training + 1 for Squirrels
 
-For this step, I'll talk about a bit about (1), (2), (4) and one of the achievements from (3) and (5). First off, (1) and (2), there isn't much to talk about but since the achievements are ordered. For the 3 endings, you accumulate "Ending Points" (tentative name) and depending on how many you have, you'll have access from 1 up to all 3. But rest assured as it isn't very strict, more about that at the bottom of this step. The chest collection achievements are missable because they're in one-time-only story dungeons, unlike the randomly generated dungeons you have access to at any time. So make sure to pick them up!
+For this step, I'll talk about a bit about (1), (2), (4) and one of the achievements from (3) and (5). First off, (1) and (2), there isn't much to talk about but since the achievements are ordered. For the 3 endings, you accumulate "Ending Points" (tentative name) and depending on how many you have, you'll have access from 1 up to all 3. But rest assured as it's pretty lenient, more about that at the bottom of this step. The chest collection achievements are missable because they're in one-time-only story dungeons, unlike the randomly generated dungeons you have access to at any time. So make sure to pick them up!
 
 The 1 achievements for the "quest" is an optional event for [A New Comrade from Afar](https://retroachievements.org/achievement/538883), it's not missable since it's only available towards the end of the game, but if you refuse the first choice when you trigger the event then it's gone. This event isn't present in the non-translated version because it was meant to be activated after some event at Konami with the employees which apparently never happened. But thanks to the translation team, they activated it for everyone to experience.
 
@@ -40,42 +40,42 @@ The 2 achievements I want to talk about from (3) and (5) are:
 
 You can read additional tips in the translation group's page if you're struggling, these tips are still things you can learn just by yourself but just in case: https://www.gamebrew.org/wiki/Gensou_Suikoden_Card_Stories_GBA
 
-Now for the endings. It's pretty straightforward, you start at 0 points, you lose or gain points depending on some choices. If you have more than 0 points, the 2nd ending will be available. If you have more than 3, the 3rd ending will be available.
+Now for the endings. It's pretty simple, you start at 0 points, you lose or gain points depending on some choices. If you have more than 0 points, the 2nd ending will be available. If you have more than 3, the 3rd ending will be available.
 
-|   |   |   |   |
-|:--|:--|:--|:--|
-|**Choice 1**|**Choice 2**|**Choice 3**|**Note**
-|**Chapter 1**|
-|**-1** "You're right."|**0** "Huh?" 
-|**0** "... yeah."|**+1** "No way!" x2||Only works the first time.
-|**+1** "Come with me."|**0** "I know."
-|**Chapter 2**
-|**+1** "Really?"|**0** "I wanna go home."||If "Kyaro." is choosen beforehand.
-|**Chapter 3**|
-|**+1** "Let's find out."|**0** "..."
-|**Chapter 4**|
-|**+1** "If I can help..."|**0** "Power?"
-|**Chapter 5**|
-|**+1** "It's not your fault."|**0** "..."
-|**-1** "I'm so tired."|**0** "I'm fine."
-|**Greenhill Chapter**|
-|**-1** "Imprison her."|**0** "Let her go."
-|**+1** "I can't run away."|**0** "..."
-|**Chapter 8**|
-|**+1** "And Jowy?"|**0** "..."
-|**+1** "We beat them?"|**0** "Nice work."
-|**0** "Sure."|**-1** "Cut off their heads."||First lose of a point after the first choice, then you'll keep losing more points every 4 times of selecting it. Infinitely.
-|**Chapter 9**|
-|**+1** "Unforgivable!"|**0** "..."
-|**-1** "Yeah."|**0** "I don't think so."
-|**Chapter 10**|
-|**0** "I understand."|**0** "..."|**-1** "No..."
-|**0** "He did."|**-1** "..."
-|**-1** "Must we fight?"|**0** "Step aside." x2||You only need to choose "Step aside." twice to avoid losing a point.
-|**-1** "What now...?"|**0** "..."||
-|**0** "After this..."|**+1** "Find Jowy!"||
-|**Epilogue**|
-|**0** "Let's go."|**-1** "I won't go." x3||
+|                            |                            |                            |     |
+|:-------------------------- |:-------------------------- |:-------------------------- |:--- |
+|**Choice 1**                |**Choice 2**                |**Choice 3**                |**Note** |
+|**Chapter 1**               |                            |                            |     |
+|"You're right." (**-1**)    |"Huh?" (**0**)              |                            |     |
+|"... yeah." (**0**)         |"No way!" x2 (**+1**)       |                            |Only works the first time.|
+|"Come with me." (**+1**)    |"I know." (**0**)           |                            |     |
+|**Chapter 2**               |                            |                            |     |
+|"Really?" (**+1**)          |"I wanna go home." (**0**)  |                            |If "Kyaro." is choosen beforehand.|
+|**Chapter 3**               |                            |                            |     |
+|"Let's find out." (**+1**)  |"..." (**0**)               |                            |     |
+|**Chapter 4**               |                            |                            |     |
+|"If I can help..." (**+1**) |"Power?" (**0**)            |                            |     |
+|**Chapter 5**               |                            |                            |     |
+|"It's not your fault." (**+1**)|"..." (**0**)            |                            |     |
+|"I'm so tired." (**-1**)    |"I'm fine." (**0**)         |                            |     |
+|**Greenhill Chapter**       |                            |                            |     |
+|"Imprison her." (**-1**)    |"Let her go." (**0**)       |                            |     |
+|"I can't run away." (**+1**)|"..." (**0**)               |                            |     |
+|**Chapter 8**               |                            |                            |     |
+|"And Jowy?" (**+1**)        |"..." (**0**)               |                            |     |
+|"We beat them?" (**+1**)    |"Nice work." (**0**)        |                            |     |
+|"Sure." (**0**)             |"Cut off their heads." (**-1**)|                         |First lose of a point after the first choice, then you'll keep losing more points every 4 times of selecting it. Infinitely.|
+|**Chapter 9**               |                            |                            |     |
+|"Unforgivable!" (**+1**)    |"..." (**0**)               |                            |     |
+|"Yeah." (**-1**)            |"I don't think so." (**0**) |                            |     |
+|**Chapter 10**              |                            |                            |     |
+|"I understand." (**0**)     |"..." (**0**)               |"No..." (**-1**)            |     |
+|"He did." (**0**)           |"..." (**-1**)              |                            |     |
+|"Must we fight?" (**-1**)   |"Step aside." x2 (**0**)    |                            |You only need to choose "Step aside." twice to avoid losing a point.|
+|"What now...?" (**-1**)     |"..." (**0**)               |                            |     |
+|"After this..." (**0**)     |"Find Jowy!" (**+1**)       |                            |     |
+|**Epilogue**                |                            |                            |     |
+|"Let's go." (**0**)         |"I won't go." x3 (**-1**)   |                            |     |
 
 ***
 
