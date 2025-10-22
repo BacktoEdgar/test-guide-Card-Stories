@@ -42,15 +42,15 @@ You can read additional tips in the translation group's page if you're strugglin
 
 Now for the endings. It's pretty straightforward, you start at 0 points, you lose or gain points depending on some choices. If you have more than 0 points, the 2nd ending will be available. If you have more than 3, the 3rd ending will be available.
 
-|   |   |   |
-|:--|:--|:--|
-|**Choice 1**|**Choice 2**|**Note**
+|   |   |   |   |
+|:--|:--|:--|:--|
+|**Choice 1**|**Choice 2**|**Choice 3**|**Note**
 |**Chapter 1**|
 |**-1** "You're right."|**0** "Huh?" 
-|**0** "... yeah."|**+1** "No way!" x2|Only works the first time
+|**0** "... yeah."|**+1** "No way!" x2||Only works the first time.
 |**+1** "Come with me."|**0** "I know."
 |**Chapter 2**
-|**+1** "Really?"|**0** "I wanna go home."|If "Kyaro." is choosen beforehand
+|**+1** "Really?"|**0** "I wanna go home."||If "Kyaro." is choosen beforehand.
 |**Chapter 3**|
 |**+1** "Let's find out."|**0** "..."
 |**Chapter 4**|
@@ -58,13 +58,31 @@ Now for the endings. It's pretty straightforward, you start at 0 points, you los
 |**Chapter 5**|
 |**+1** "It's not your fault."|**0** "..."
 |**-1** "I'm so tired."|**0** "I'm fine."
+|**Greenhill Chapter**|
+|**-1** "Imprison her."|**0** "Let her go."
+|**+1** "I can't run away."|**0** "..."
+|**Chapter 8**|
+|**+1** "And Jowy?"|**0** "..."
+|**+1** "We beat them?"|**0** "Nice work."
+|**0** "Sure."|**-1** "Cut off their heads."||First lose of a point after the first choice, then you'll keep losing more points every 4 times of selecting it. Infinitely.
+|**Chapter 9**|
+|**+1** "Unforgivable!"|**0** "..."
+|**-1** "Yeah."|**0** "I don't think so."
+|**Chapter 10**|
+|**0** "I understand."|**0** "..."|**-1** "No..."
+|**0** "He did."|**-1** "..."
+|**-1** "Must we fight?"|**0** "Step aside." x2||You only need to choose "Step aside." twice to avoid losing a point.
+|**-1** "What now...?"|**0** "..."||
+|**0** "After this..."|**+1** "Find Jowy!"||
+|**Epilogue**|
+|**0** "Let's go."|**-1** "I won't go." x3||
 
 ***
 
 ## Step 2: Challenges and Optional Dungeons Venturing
 There are 13 achievements for various challenges with cards/deck setup. 10 of them (at the bottom of the achievement list) are for restricting the usage of certain cards which give you an advantage in those specific fights by either bringing down the required VP from the player or increasing the enemy's accompanied with a line from the related character. [The Toran Republic Might](https://retroachievements.org/achievement/540072) is pretty simple. [The Mad Prince](https://retroachievements.org/achievement/538874) is one of those "unwinnable" fights, you'll need to prepare a good deck to counter his duels and rack up VPs quickly or survive enough to make him run out of cards. [As It Was Meant to Be](https://retroachievements.org/achievement/538890) is a challenge to re-enact the event as played out in the original game. You'll need a bunch of "Teleport" cards and characters geared for BLD and MIL to also counter his mission cards. Good luck!
 
-Now for (6), when you go to any optional dungeon, you'll notice that they're randomly generated along with their content; chests, layout, visible enemies (on top of random encounters). Among these are NPCs with interactions from fighting them or simply just talking to them. Technically, all NPCs are missable if you reach the epilogue, but I only noted those that have a much earlier missable point. Some have a very tight window! Besides the trader version of Lorelai (read the warnings part), I want to mention that if you meet Sierra, don't worry about recipes and give whatever she wants, if you have it.
+Now for (6), when you go to any optional dungeon, you'll notice that they're randomly generated along with their content; chests, layout, visible enemies (on top of random encounters). Among these are NPCs with interactions from fighting them or simply just talking to them. Technically, all NPCs except for two are missable if you reach the epilogue, but I only noted those that have a much earlier missable point. Some have a very tight window! Besides the trader version of Lorelai (read the warnings part), I want to mention that if you meet Sierra, don't worry about recipes and give whatever she wants, if you have it.
 
 I'll list here the starting and ending points of the NPCs' availability.
 
@@ -72,30 +90,31 @@ I'll list here the starting and ending points of the NPCs' availability.
 |:--|:--|:--|:--|
 |**Character**|**Start**|**End**|**Note**|
 |Lorelai (Merchant)|Start of Ch.2||
-|Nanami|After meeting Nanami in Ch.2||
-|Rowd 1|After meeting Nanami in Ch.2||
-|Viktor|After meeting Nanami in Ch.2||
-|Lorelai (Trader)|After meeting Nanami in Ch.2||**BUGGED**! She's rarer than the merchant version so you don't have to worry too much about meeting her but when you do and she asks you if you have X cards to trade with, refuse her and you'll be fine. (She's only bugged in the English patched version)
-|Flik|After meeting Nanami in Ch.2||Technically, that's the starting point but he didn't appear for me until Ch.3
+|Nanami|After meeting Nanami in Ch.2|Epilogue|
+|Rowd 1|After meeting Nanami in Ch.2|After beating him in Ch.8|
+|Viktor|After meeting Nanami in Ch.2|Epilogue|
+|Lorelai (Trader)|After meeting Nanami in Ch.2|After taking over Matilda, end of Ch.9|**BUGGED**! She's rarer than the merchant version so you don't have to worry too much about meeting her but when you do and she asks you if you have X cards to trade with, refuse her and you'll be fine. (She's only bugged in the English patched version)
+|Flik|After meeting Nanami in Ch.2|Epilogue|Technically, that's the starting point but he didn't appear for me until Ch.3
 |Solon|After choosing to fight and winning against him in Ch.2 **OR** in Ch.4|After taking back South Window in Ch.5|
-|Luca|After all the events in the mercenary fort in Ch.2||
+|Luca|After all the events in the mercenary fort in Ch.2|After taking over Matilda, end of Ch.9|
 |Anabelle|After meeting her for the first time in Ch.3|After Jowy meets with her in Ch.3|
-|Apple|After meeting her in Ch.4||
-|Jillia|After winning against Shu in Ch.4||But you won't have access to locations where she appears for a while
-|Shu|After becoming the leader, the end of Ch.4||
-|Seed|After taking back Two River in Ch.5||
-|Culgan|After taking back Two River in Ch.5||
-|Teresa|Before the Ch.6 destination decision||
-|Sierra|Before the Ch.6 destination decision||
-|Neclord|Before the Ch.6 destination decision||
-|Han Cunningham|
-|Gorudo|
-|Kiba|
-|Miklotov|
-|Camus|
-|Rowd 2|
-|Klaus|
-|Lucia|
+|Apple|After meeting her in Ch.4|Epilogue|
+|Jillia|After winning against Shu in Ch.4|After taking over Matilda, end of Ch.9|But you won't have access to locations where she appears for a while
+|Shu|After becoming the leader, the end of Ch.4|Epilogue|
+|Seed|After taking back Two River in Ch.5|After taking over Matilda, end of Ch.9|
+|Culgan|After taking back Two River in Ch.5|After taking over Matilda, end of Ch.9|
+|Teresa|Before the Ch.6 destination decision|Epilogue|
+|Sierra|Before the Ch.6 destination decision|Epilogue|
+|Neclord|Before the Ch.6 destination decision|After the Tinto Chapter|
+|Lucia|After the Greenhill Chapter|After taking over Matilda, end of Ch.9|
+|Rowd 2|After beating him in Ch.8||
+|Kiba||After taking back Kuskus, end of Ch.8|Epilogue|
+|Klaus||After taking back Kuskus, end of Ch.8|Epilogue|
+|Han Cunningham|After taking back Kuskus, end of Ch.8|After taking over Matilda, end of Ch.9|
+|Gorudo|After meeting with Gorudo for the first time in Ch.9|After taking over Matilda, end of Ch.9|
+|Miklotov|After meeting with Gorudo for the first time in Ch.9|Epilogue|
+|Camus|After meeting with Gorudo for the first time in Ch.9|Epilogue|
+
 
 ***
 
@@ -117,7 +136,12 @@ As you've guessed after seeing it in-game and reading this, the "Recipes" are co
 And that's all, I hope this was helpful.
 
 ## Trivia
-There are 2 NPCs that didn't make it in, at least in the English patched version, since according to the JP link above, one of them was found but they didn't give details besides that since she didn't give anything. The other though, is definitely unused in both.
+There are 2 NPCs that didn't make it in. At least in the English patched version, according to the JP link above one of them was found but they didn't give details besides the quote below since she didn't give anything. The other though, is definitely unused in both.
+```
+ダンジョンにランダムに出現するキャラをまとめてみました。
+カードをくれない補助キャラ（アップル、シュウ、クラウス、レックナート）は、除外してあります。
+しかし、レックナートって何の役に立つんでしょう･･･。
+```
 
 **Leknaat**
 
