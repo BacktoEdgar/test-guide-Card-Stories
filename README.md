@@ -19,14 +19,14 @@ You can tackle this set however you want. There's no difficulty option and excep
 # 3) Walkthrough
 
 ## Step 1: Casual Run
-If you're still reading, then you probably want to know some more. This step is if you want what to keep in mind for a casual run or if you want to know the minimum required about the set/game. First, let me divide the set into what it has, the set has 78 achievements:
-1. 17 achievements for story purposes: 11 Progression + 3 Endings + 3 for optional story decisions
+If you're still reading, then you probably want to know some more. This step is if you want what to keep in mind for a casual run or if you want to know the minimum required about the set/game. But first, a breakdown; the set has 78 achievements:
+1. 17 for story purposes: 11 Progression + 3 Endings + 3 for optional story decisions
 2. 9 more that you can get along the story: 3 tutorials + 5 chest collection + 1 Quest
-3. 13 achievements for Challenges
-4. 9 achievements for Trading
-5. 2 achievements for Cards Collection and for unlocking all possible locations
-6. 24 achievements for NPCs that you find in dungeons
-7. 4 miscellaneous achievements: 3 for Training + 1 for Squirrels
+3. 13 for Challenges
+4. 9 for Trading
+5. 2 for Cards Collection and for unlocking all possible locations
+6. 24 for NPCs that you find in dungeons
+7. 4 miscellaneous: 3 for Training + 1 for Squirrels
 
 For this step, I'll talk about a bit about (1), (2), (4) and one of the achievements from (3) and (5). First off, (1) and (2), there isn't much to talk about but since the achievements are ordered. For the 3 endings, you accumulate "Ending Points" (tentative name) and depending on how many you have, you'll have access from 1 up to all 3. But rest assured as it's pretty lenient, more about that at the bottom of this step. The chest collection achievements are missable because they're in one-time-only story dungeons, unlike the randomly generated dungeons you have access to at any time. So make sure to pick them up!
 
