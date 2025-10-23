@@ -124,14 +124,14 @@ There are some miscellaneous achievements such as those 3 for training, which yo
 Here's a helpful JP link for the cards among other things: https://web.archive.org/web/20190329100011/http://www.geocities.co.jp/Bookend/2172/card/free.html
 
 # 4) Conclusion
-There's leaderboard for fun for grabbing your NG time when you beat Chapter 10 very shortly before the ending decision, any time beyond NG+ isn't gonna count since the time carries over. If you do stumble on Leknaat, do try and make a save state or send me the details of where/when you found her. I doubt it'll end up as an achievement since I couldn't trigger her "naturally" but who knows.
+There's leaderboard for fun for grabbing your NG time when you beat Chapter 10 very shortly before the ending decision, any time beyond NG+ isn't gonna count since the time carries over. If you do stumble on Leknaat, do try and make a save state or send me the details of where/when you found her. I doubt it'll end up as an achievement since I couldn't trigger her "naturally" and that may be a bug but who knows.
 
-Ah! One more thing since this took me some time to fully figure out, the recipes. And since it isn't explained anywhere so might as well explaining it before ending this guide. You get Recipes as drops like anything else, some are common, some are unique from story events. Their only **real** use is to trade them with Sierra. Their other.. use is to go to a Cafeteria. You got 3 options there:
+One more thing since this took me some time to fully figure out, the recipes. And since it isn't explained anywhere so might as well explaining it before ending this guide. You get Recipes as drops like anything else, some are common, some are unique from story events. Their only **real** use is to trade them with Sierra. Their other.. use is to go to a Cafeteria. You got 3 options there:
 * **Recipe List:** Your list of registered or created decks. "Select" button gives you a variety of options, "Build Deck" allows you to copy its "template" into one of your 4 decks.
 * **Select Recipe:** Select the recipe you want to register. "Select" button shows you the missing ingredients and the "Start" button shows you the list of cards in that recipe.
 * **Select Deck:** No need to explain this.
 
-As you've guessed after seeing it in-game and reading this, the "Recipes" are completely pointless. They offer some template decks, but you can just... make one yourself instead of that. Maybe there's that one useful template among the many recipes but I'll leave that for you to discover if you care about it. That's why I said earlier in the guide to just give them away, treat them as another monetary means.
+As you've guessed after seeing it in-game and reading this, the "Recipes" are completely pointless. They offer some template decks, but you can just... make one yourself instead of that. Maybe there's that one useful template among the many recipes but I'll leave that for you to discover if you care about it. That's why I said earlier in the guide to just give them away to Sierra when asked, treat them as another monetary means.
 
 And that's all, I hope this was helpful.
 
