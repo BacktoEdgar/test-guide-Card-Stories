@@ -1,7 +1,9 @@
 ![Image](https://i.imgur.com/7kGdiCV.jpeg)
 Guide by [BacktoEdgar](https://retroachievements.org/user/BacktoEdgar)
 # 1) Synopsis
-**Genso Suikoden Card Stories** is a pretty niche spin-off game, the story is a retelling of Suikoden II with some changes here and there. So if you didn't play Suikoden II on PS1, I strongly recommend that you do that first. The story is mostly in Visual Novel ADV format, you can move around the world map from town to town outside of that or inside dungeons. The gameplay revolves around collecting cards, building your deck and win the fights by using cards that represent "Missions" and then playing character cards to win those missions which will earn you points (VP) and then win the fight once you reach the requirement number.
+**Genso Suikoden Card Stories** is a pretty niche spin-off game, the story is a retelling of Suikoden II with some changes here and there. **So if you didn't play Suikoden II on PS1, I strongly recommend that you do that first**.
+
+The story is mostly in a visual novel ADV format, you can move around the world map from town to town outside of that or inside dungeons. The gameplay revolves around collecting cards, building your deck and win the fights by using cards that represent "Missions" and then playing character cards to win those missions which will earn you points (VP) and then win the fight once you reach the requirement number.
 
 # 2) Overview
 If you never played this game, especially if you're not familiar with card games, I recommend to just play the game casually on your first run at your own pace. There's a New Game+ feature, so you can tackle whatever you need and continue your card collection afterwards. Some challenges might be rough on your first run if you don't have a good deck for it. It's impossible to finish the game in 1 playthrough, mainly due to [The Mad Prince](https://retroachievements.org/achievement/538874) achievement.
