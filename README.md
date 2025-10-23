@@ -1,8 +1,6 @@
 ![Image](https://i.imgur.com/7kGdiCV.jpeg)
 Guide by [BacktoEdgar](https://retroachievements.org/user/BacktoEdgar)
 # 1) Synopsis
-Welcome to this small guide, hopefully you find it useful!
-
 **Genso Suikoden Card Stories** is a pretty niche spin-off game, the story is a retelling of Suikoden II with some changes here and there. So if you didn't play Suikoden II on PS1, I strongly recommend that you do that first. The story is mostly in Visual Novel ADV format, you can move around the world map from town to town outside of that or inside dungeons. The gameplay revolves around collecting cards, building your deck and win the fights by using cards that represent "Missions" and then playing character cards to win those missions which will earn you points (VP) and then win the fight once you reach the requirement number.
 
 # 2) Overview
