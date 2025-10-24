@@ -10,7 +10,7 @@ If you never played this game, especially if you're not familiar with card games
 
 You can tackle this set however you want. There's no difficulty option and except for progression, nothing is blocked from NG+.
 
-## Warning:
+## Warning
 * The game can glitch during fights sometimes and it isn't a very rare thing unfortunately, so save often. Save often regardless in case you lose a fight in a dungeon (since some NPCs can steal a card), and make backup saves before every chapter or however you feel like just in case.
 * There are 2 versions of Lorelai that you can meet in dungeons, if it's the shop version, then no worries. But if it's the version that asks you specific cards to trade with, refuse because she's bugged.
 * The set supports both the vanilla JP version and the English patched version. If you're one of the players who went with the former, then keep in mind that you need to save towards the end of the game and switch versions to do the event related to [A New Comrade from Afar](https://retroachievements.org/achievement/538883), which will also give you another card for your card collection. You can switch back once you're done with that.
