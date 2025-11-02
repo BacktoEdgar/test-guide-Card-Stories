@@ -42,40 +42,56 @@ You can read additional tips in the translation group's page if you're strugglin
 
 Now for the endings. It's pretty simple, you start at 0 points, you lose or gain points depending on some choices. If you have more than 0 points, the 2nd ending will be available. If you have more than 3, the 3rd ending will be available.
 
-|                            |                            |                            |     |
-|:-------------------------- |:-------------------------- |:-------------------------- |:--- |
-|**Choice 1**                |**Choice 2**                |**Choice 3**                |**Note** |
-|**Chapter 1**               |                            |                            |     |
-|"You're right." (**-1**)    |"Huh?" (**0**)              |                            |     |
-|"... yeah." (**0**)         |"No way!" x2 (**+1**)       |                            |Only works the first time.|
-|"Come with me." (**+1**)    |"I know." (**0**)           |                            |     |
-|**Chapter 2**               |                            |                            |     |
-|"Really?" (**+1**)          |"I wanna go home." (**0**)  |                            |If "Kyaro." is choosen beforehand.|
-|**Chapter 3**               |                            |                            |     |
-|"Let's find out." (**+1**)  |"..." (**0**)               |                            |     |
-|**Chapter 4**               |                            |                            |     |
-|"If I can help..." (**+1**) |"Power?" (**0**)            |                            |     |
-|**Chapter 5**               |                            |                            |     |
-|"It's not your fault." (**+1**)|"..." (**0**)            |                            |     |
-|"I'm so tired." (**-1**)    |"I'm fine." (**0**)         |                            |     |
-|**Greenhill Chapter**       |                            |                            |     |
-|"Imprison her." (**-1**)    |"Let her go." (**0**)       |                            |     |
-|"I can't run away." (**+1**)|"..." (**0**)               |                            |     |
-|**Chapter 8**               |                            |                            |     |
-|"And Jowy?" (**+1**)        |"..." (**0**)               |                            |     |
-|"We beat them?" (**+1**)    |"Nice work." (**0**)        |                            |     |
-|"Sure." (**0**)             |"Cut off their heads." (**-1**)|                         |First lose of a point after the first choice, then you'll keep losing more points every 4 times of selecting it. Infinitely.|
-|**Chapter 9**               |                            |                            |     |
-|"Unforgivable!" (**+1**)    |"..." (**0**)               |                            |     |
-|"Yeah." (**-1**)            |"I don't think so." (**0**) |                            |     |
-|**Chapter 10**              |                            |                            |     |
-|"I understand." (**0**)     |"..." (**0**)               |"No..." (**-1**)            |     |
-|"He did." (**0**)           |"..." (**-1**)              |                            |     |
-|"Must we fight?" (**-1**)   |"Step aside." x2 (**0**)    |                            |You only need to choose "Step aside." twice to avoid losing a point.|
-|"What now...?" (**-1**)     |"..." (**0**)               |                            |     |
-|"After this..." (**0**)     |"Find Jowy!" (**+1**)       |                            |     |
-|**Epilogue**                |                            |                            |     |
-|"Let's go." (**0**)         |"I won't go." x3 (**-1**)   |                            |     |
+<table>
+  <tr>
+    <th style="width:200px;">Choice 1</th>
+    <th style="width:200px;">Choice 2</th>
+    <th style="width:200px;">Choice 3</th>
+    <th style="width:200px;">Note</th>
+  </tr>
+
+  <tr><th colspan="4">- CHAPTER 1 -</th></tr>
+  <tr><td>"You're right." (<b>-1</b>)</td><td>"Huh?" (<b>0</b>)</td><td></td><td></td></tr>
+  <tr><td>"... yeah." (<b>0</b>)</td><td>"No way!" x2 (<b>+1</b>)</td><td></td><td>Only works the first time.</td></tr>
+  <tr><td>"Come with me." (<b>+1</b>)</td><td>"I know." (<b>0</b>)</td><td></td><td></td></tr>
+
+  <tr><th colspan="4">- CHAPTER 2 -</th></tr>
+  <tr><td>"Really?" (<b>+1</b>)</td><td>"I wanna go home." (<b>0</b>)</td><td></td><td>If "Kyaro." is chosen beforehand.</td></tr>
+
+  <tr><th colspan="4">- CHAPTER 3 -</th></tr>
+  <tr><td>"Let's find out." (<b>+1</b>)</td><td>"..." (<b>0</b>)</td><td></td><td></td></tr>
+
+  <tr><th colspan="4">- CHAPTER 4 -</th></tr>
+  <tr><td>"If I can help..." (<b>+1</b>)</td><td>"Power?" (<b>0</b>)</td><td></td><td></td></tr>
+
+  <tr><th colspan="4">- CHAPTER 5 -</th></tr>
+  <tr><td>"It's not your fault." (<b>+1</b>)</td><td>"..." (<b>0</b>)</td><td></td><td></td></tr>
+  <tr><td>"I'm so tired." (<b>-1</b>)</td><td>"I'm fine." (<b>0</b>)</td><td></td><td></td></tr>
+
+  <tr><th colspan="4">- GREENHILL CHAPTER -</th></tr>
+  <tr><td>"Imprison her." (<b>-1</b>)</td><td>"Let her go." (<b>0</b>)</td><td></td><td></td></tr>
+  <tr><td>"I can't run away." (<b>+1</b>)</td><td>"..." (<b>0</b>)</td><td></td><td></td></tr>
+
+  <tr><th colspan="4">- CHAPTER 8 -</th></tr>
+  <tr><td>"And Jowy?" (<b>+1</b>)</td><td>"..." (<b>0</b>)</td><td></td><td></td></tr>
+  <tr><td>"We beat them?" (<b>+1</b>)</td><td>"Nice work." (<b>0</b>)</td><td></td><td></td></tr>
+  <tr><td>"Sure." (<b>0</b>)</td><td>"Cut off their heads." (<b>-1</b>)</td><td></td><td>First loss of a point after the first choice, then you'll keep losing more points every 4 selections. Infinitely.</td></tr>
+
+  <tr><th colspan="4">- CHAPTER 9 -</th></tr>
+  <tr><td>"Unforgivable!" (<b>+1</b>)</td><td>"..." (<b>0</b>)</td><td></td><td></td></tr>
+  <tr><td>"Yeah." (<b>-1</b>)</td><td>"I don't think so." (<b>0</b>)</td><td></td><td></td></tr>
+
+  <tr><th colspan="4">- CHAPTER 10 -</th></tr>
+  <tr><td>"I understand." (<b>0</b>)</td><td>"..." (<b>0</b>)</td><td>"No..." (<b>-1</b>)</td><td></td></tr>
+  <tr><td>"He did." (<b>0</b>)</td><td>"..." (<b>-1</b>)</td><td></td><td></td></tr>
+  <tr><td>"Must we fight?" (<b>-1</b>)</td><td>"Step aside." x2 (<b>0</b>)</td><td></td><td>You only need to choose "Step aside." twice to avoid losing a point.</td></tr>
+  <tr><td>"What now...?" (<b>-1</b>)</td><td>"..." (<b>0</b>)</td><td></td><td></td></tr>
+  <tr><td>"After this..." (<b>0</b>)</td><td>"Find Jowy!" (<b>+1</b>)</td><td></td><td></td></tr>
+
+  <tr><th colspan="4">- EPILOGUE -</th></tr>
+  <tr><td>"Let's go." (<b>0</b>)</td><td>"I won't go." x3 (<b>-1</b>)</td><td></td><td></td></tr>
+
+</table>
 
 ***
 
@@ -86,35 +102,69 @@ Now for (6), when you go to any optional dungeon, you'll notice that they're ran
 
 I'll list here the starting and ending points of the NPCs' availability, and order them.
 
-|   |   |   |   |
-|:--|:--|:--|:--|
-|**Character**|**Start**|**End**|**Note**|
-|Lorelai (Merchant)|Start of Ch.2||
-|Nanami|After meeting Nanami in Ch.2|Epilogue|
-|Rowd 1|After meeting Nanami in Ch.2|After beating him in Ch.8|
-|Viktor|After meeting Nanami in Ch.2|Epilogue|
-|Lorelai (Trader)|After meeting Nanami in Ch.2|After taking over Matilda, end of Ch.9|**BUGGED**! She's rarer than the merchant version so you don't have to worry too much about meeting her but when you do and she asks you if you have X cards to trade with, refuse her and you'll be fine. (She's only bugged in the English patched version)
-|Flik|After meeting Nanami in Ch.2|Epilogue|Technically, that's the starting point but he didn't appear for me until Ch.3
-|Solon|After choosing to fight and winning against him in Ch.2 **OR** in Ch.4|After taking back South Window in Ch.5|
-|Luca|After all the events in the mercenary fort in Ch.2|After taking over Matilda, end of Ch.9|
-|Anabelle|After meeting her for the first time in Ch.3|After Jowy meets with her in Ch.3|
-|Apple|After meeting her in Ch.4|Epilogue|
-|Jillia|After winning against Shu in Ch.4|After taking over Matilda, end of Ch.9|But you won't have access to locations where she appears for a while
-|Shu|After becoming the leader, the end of Ch.4|Epilogue|
-|Seed|After taking back Two River in Ch.5|After taking over Matilda, end of Ch.9|
-|Culgan|After taking back Two River in Ch.5|After taking over Matilda, end of Ch.9|
-|Teresa|Before the Ch.6 destination decision|Epilogue|
-|Sierra|Before the Ch.6 destination decision|Epilogue|
-|Neclord|Before the Ch.6 destination decision|After the Tinto Chapter|
-|Lucia|After the Greenhill Chapter|After taking over Matilda, end of Ch.9|
-|Rowd 2|After beating him in Ch.8||
-|Kiba|After taking back Kuskus, end of Ch.8|Epilogue||
-|Klaus|After taking back Kuskus, end of Ch.8|Epilogue||
-|Han Cunningham|After taking back Kuskus, end of Ch.8|After taking over Matilda, end of Ch.9|
-|Gorudo|After meeting with Gorudo for the first time in Ch.9|After taking over Matilda, end of Ch.9|
-|Miklotov|After meeting with Gorudo for the first time in Ch.9|Epilogue|
-|Camus|After meeting with Gorudo for the first time in Ch.9|Epilogue|
+<table>
+  <tr>
+    <th style="width:200px;">Character</th>
+    <th style="width:200px;">Start</th>
+    <th style="width:200px;">End</th>
+    <th style="width:200px;">Note</th>
+  </tr>
 
+  <tr><td>Lorelai (Merchant)</td><td>Start of Ch.2</td><td></td><td></td></tr>
+  
+  <tr><td>Nanami</td><td>After meeting Nanami in Ch.2</td><td>Epilogue</td><td></td></tr>
+  
+  <tr><td>Rowd 1</td><td>After meeting Nanami in Ch.2</td><td>After beating him in Ch.8</td><td></td></tr>
+  
+  <tr><td>Viktor</td><td>After meeting Nanami in Ch.2</td><td>Epilogue</td><td></td></tr>
+
+  <tr>
+    <td>Lorelai (Trader)</td>
+    <td>After meeting Nanami in Ch.2</td>
+    <td>After taking over Matilda, end of Ch.9</td>
+    <td><b>BUGGED❗</b> She's rarer than the merchant version so you don't have to worry too much, but when you do and she asks you if you have X cards to trade with, REFUSE and you'll be fine. Only bugged in the English patched version.</td>
+  </tr>
+
+  <tr><td>Flik</td><td>After meeting Nanami in Ch.2</td><td>Epilogue</td><td>	Technically that's the starting point but he didn't appear for me until Ch.3</td></tr>
+  
+  <tr><td><b>Solon</b></td><td>After choosing to fight and winning against him in Ch.2 <b>OR</b> in Ch.4</td><td>After taking back South Window in Ch.5</td><td></td></tr>
+  
+  <tr><td>Luca</td><td>After the Merc Fort events in Ch.2</td><td>After taking over Matilda, end of Ch.9</td><td></td></tr>
+  
+  <tr><td>Anabelle</td><td>After meeting her for the first time in Ch.3</td><td>After Jowy meets her in Ch.3</td><td></td></tr>
+
+  <tr><td>Apple</td><td>After meeting her in Ch.4</td><td>Epilogue</td><td></td></tr>
+  
+  <tr><td>Jillia</td><td>After winning vs Shu in Ch.4</td><td>After taking over Matilda, end of Ch.9</td><td>But you won't have access to locations where she appears for a while</td></tr>
+  
+  <tr><td>Shu</td><td>After becoming the leader, end of Ch.4</td><td>Epilogue</td><td></td></tr>
+
+  <tr><td>Seed</td><td>After taking back Two River in Ch.5</td><td>After taking over Matilda, end of Ch.9</td><td></td></tr>
+  
+  <tr><td>Culgan</td><td>After taking back Two River in Ch.5</td><td>After taking over Matilda, end of Ch.9</td><td></td></tr>
+
+  <tr><td>Teresa</td><td>Before the Ch.6 destination decision</td><td>Epilogue</td><td></td></tr>
+  
+  <tr><td>Sierra</td><td>Before the Ch.6 destination decision</td><td>Epilogue</td><td></td></tr>
+
+  <tr><td>Neclord</td><td>Before the Ch.6 destination decision</td><td>After the Tinto Chapter</td><td></td></tr>
+
+  <tr><td>Lucia</td><td>After the Greenhill Chapter</td><td>After taking over Matilda, end of Ch.9</td><td></td></tr>
+
+  <tr><td>Rowd 2</td><td>After beating him in Ch.8</td><td></td><td></td></tr>
+  
+  <tr><td>Kiba</td><td>After taking back Kuskus, end of Ch.8</td><td>Epilogue</td><td></td></tr>
+  
+  <tr><td>Klaus</td><td>After taking back Kuskus, end of Ch.8</td><td>Epilogue</td><td></td></tr>
+
+  <tr><td>Han Cunningham</td><td>After taking back Kuskus, end of Ch.8</td><td>After taking over Matilda, end of Ch.9</td><td></td></tr>
+  
+  <tr><td>Gorudo</td><td>After meeting him for first time in Ch.9</td><td>After taking over Matilda, end of Ch.9</td><td></td></tr>
+
+  <tr><td>Miklotov</td><td>After meeting Gorudo in Ch.9</td><td>Epilogue</td><td></td></tr>
+  <tr><td>Camus</td><td>After meeting Gorudo in Ch.9</td><td>Epilogue</td><td></td></tr>
+  
+</table>
 
 ***
 
