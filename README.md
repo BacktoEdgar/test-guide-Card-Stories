@@ -21,7 +21,7 @@ You can tackle this set however you want. There's no difficulty option, and exce
 ## Step 1: Casual Run
 If you're still reading, then you probably want to know some more. This step is if you want what to keep in mind for a casual run or if you want to know the minimum required about the set/game. But first, a breakdown; the set has 78 achievements:
 1. 17 for story purposes: 11 Progression + 3 Endings + 3 for optional story decisions
-2. 9 more that you can get along the story: 3 tutorials + 5 chest collection + 1 Quest
+2. 9 more that you can get along the story: 3 tutorials + 5 chest collection + 1 sidequest
 3. 13 for Challenges
 4. 9 for Trading
 5. 2 for Cards Collection and for unlocking all possible locations
@@ -30,7 +30,7 @@ If you're still reading, then you probably want to know some more. This step is 
 
 For this step, I'll talk about a bit about (1), (2), (4) and one of the achievements from (3) and (5). First off, (1) and (2), there isn't much to talk about but since the achievements are ordered. For the 3 endings, you accumulate "Ending Points" (tentative name) and depending on how many you have, you'll have access from 1 up to all 3. But rest assured as it's pretty lenient, more about that at the bottom of this step. The chest collection achievements are missable because they're in one-time-only story dungeons, unlike the randomly generated dungeons you have access to at any time. So make sure to pick them up!
 
-The 1 achievements for the "quest" is an optional event in Sajah Village for [A New Comrade from Afar](https://retroachievements.org/achievement/538883), it's not missable since it's only available towards the end of the game, but if you refuse the first choice when you trigger the event then it's gone. This event isn't present in the non-translated version because it was meant to be activated after some event at Konami with the employees which apparently never happened (read more [here](https://web.archive.org/web/20190329100011/http://www.geocities.co.jp/Bookend/2172/card/ed.html)). But thanks to the translation team, they activated it for everyone to experience.
+The 1 achievements for the "sidequest" is an optional event in Sajah Village for [A New Comrade from Afar](https://retroachievements.org/achievement/538883), it's not missable since it's only available towards the end of the game, but if you refuse the first choice when you trigger the event then it's gone. This event isn't present in the non-translated version because it was meant to be activated after some event at Konami with the employees which apparently never happened (read more [here](https://web.archive.org/web/20190329100011/http://www.geocities.co.jp/Bookend/2172/card/ed.html)). But thanks to the translation team, they activated it for everyone to experience.
 
 For (4), you need to enter the Training facilities in some towns and trade all the required cards to unlock them. You're free to do them as soon as possible or later on, but the one in the Mercenary Fort is missable as soon as the end of Chapter 2!
 
